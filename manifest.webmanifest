@@ -1,0 +1,18 @@
+{
+ "name": "Fair Warning",
+ "short_name": "Fair Warning",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0c0e13",
+ "theme_color": "#0c0e13",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
